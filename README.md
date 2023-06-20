@@ -32,16 +32,9 @@ This is an exercise to further master my knowledge of testing.
 
 
 <details>
-  <summary>HTML</summary>
+  <summary>JavaScript</summary>
   <ul>
-    <li><a href="https://html.org/">HTML</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>CSS</summary>
-  <ul>
-    <li><a href="https://css.com/">CSS</a></li>
+    <li><a href="https://javascript.org/">HTML</a></li>
   </ul>
 </details>
 
@@ -49,9 +42,7 @@ This is an exercise to further master my knowledge of testing.
 
 ### Key Features 
 
-- *[Add Functionality]*
-- *[Remove Functionality]*
-- *[Edit Description Functionality]*
+- *[Create Tests]*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +52,7 @@ This is an exercise to further master my knowledge of testing.
 ## 💻 Getting Started 
 
 To get a local copy up and running, follow these steps.
-just visit my repo folder (https://github.com/rodrigopenayo98/ToDo-List-Rod/tree/feature-structure)
+just visit my repo folder (https://github.com/rodrigopenayo98/stringsRod/tree/feature-branch)
 
 ### Prerequisites
 
@@ -73,7 +64,7 @@ but mostly use Vs Code and Sublime Text
 ### Setup
 
 Clone this repository to your desired folder: 
-(https://github.com/rodrigopenayo98/ToDo-List-Rod.git)
+(https://github.com/rodrigopenayo98/stringsRod.git)
 
 ### Install
 
@@ -85,13 +76,13 @@ GitHub and VS Code.
 
 To run the project, execute the following command:
 
-Linters and Git Commands.
+Git Commands.
 
 ### Run tests
 
 To run tests, run the following command:
 
-Linters
+Jets
 
 
 <!-- AUTHORS -->
@@ -111,8 +102,7 @@ Linters
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--**[Responsive Design]**
--**[Improve CSS Styles]**
+-**[More Testings]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
