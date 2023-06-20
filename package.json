@@ -1,0 +1,23 @@
+{
+  "name": "stringsrod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigopenayo98/stringsRod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigopenayo98/stringsRod/issues"
+  },
+  "homepage": "https://github.com/rodrigopenayo98/stringsRod#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
